@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qml-deadlines/static/css/main.e6c13ad2.css",
+    "main.js": "/qml-deadlines/static/js/main.df72a51d.js",
+    "static/js/453.49937a80.chunk.js": "/qml-deadlines/static/js/453.49937a80.chunk.js",
+    "index.html": "/qml-deadlines/index.html",
+    "main.e6c13ad2.css.map": "/qml-deadlines/static/css/main.e6c13ad2.css.map",
+    "main.df72a51d.js.map": "/qml-deadlines/static/js/main.df72a51d.js.map",
+    "453.49937a80.chunk.js.map": "/qml-deadlines/static/js/453.49937a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.df72a51d.js"
+  ]
+}
