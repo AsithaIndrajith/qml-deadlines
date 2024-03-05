@@ -17,9 +17,9 @@ const PageDetails = () => {
             <Typography>
                 Last update: March 6, 2024
             </Typography>
-            <Typography>
+            {/* <Typography>
                 Inspired by: <Link color="inherit" target='_blank' href='https://sec-deadlines.github.io/'>Security and Privacy Conference Deadlines</Link>
-            </Typography>
+            </Typography> */}
         </React.Fragment>
     )
 }

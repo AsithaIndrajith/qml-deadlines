@@ -1,90 +1,88 @@
 {
-    "results": {
-        "results": [
-            {
-                "title": "Tutorials",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-tutorials/",
-                "submissionDeadline": "2024-03-25T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "Workshops",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-workshops/",
-                "submissionDeadline": "2024-03-25T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "AIQxQIA 2023: AI for Quantum and Quantum for AI",
-                "link": "https://link.springer.com/collections/diaggfidff",
-                "submissionDeadline": "2024-03-31T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "Quantum Machine Intelligence"
-            },
-            {
-                "title": "Advances in Telecommunication Networks and Wireless Technology",
-                "link": "https://www.mdpi.com/journal/information/special_issues/253KD88X7M",
-                "submissionDeadline": "2024-04-01T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "MDPI: information"
-            },
-            {
-                "title": "Technical Papers",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-papers/",
-                "submissionDeadline": "2024-04-08T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "Panels",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-panels/",
-                "submissionDeadline": "2024-04-29T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "Quantum Machine Learning and Quantum Computing for Emerging Intelligent Systems",
-                "link": "https://ietresearch.onlinelibrary.wiley.com//hub/journal/26328925/homepage/call-for-papers/si-2024-emerging-intelligent-systems",
-                "submissionDeadline": "2024-06-30T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "IET Quantum Communication"
-            },
-            {
-                "title": "Birds-of-Feather (BoF) Sessions",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-bofs/",
-                "submissionDeadline": "2024-07-15T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "Posters",
-                "link": "https://ieeecsqce.wpengine.com/2023/call-for-posters/",
-                "submissionDeadline": "2024-07-29T00:00:00.000Z",
-                "publishingType": "conference",
-                "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
-            },
-            {
-                "title": "Advances in Quantum Computing and Algorithms (AQCA) for Engineering Applications",
-                "link": "https://ietresearch.onlinelibrary.wiley.com//hub/journal/26328925/homepage/call-for-papers/si-2024-aqca",
-                "submissionDeadline": "2024-09-30T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "IET Quantum Communication"
-            },
-            {
-                "title": "Quantum and Quantum-inspired Machine Learning: from foundations to theoretical advances",
-                "link": "https://link.springer.com/collections/icbcaiecfj",
-                "submissionDeadline": "2024-10-31T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "Quantum Machine Intelligence"
-            },
-            {
-                "title": "Quantum Information Processing and Machine Learning",
-                "link": "https://www.mdpi.com/journal/information/special_issues/TCSPLV9N41",
-                "submissionDeadline": "2024-10-31T00:00:00.000Z",
-                "publishingType": "journal",
-                "publishingTitle": "MDPI: information"
-            }
-        ]
-    }
+    "results": [
+        {
+            "title": "Tutorials",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-tutorials/",
+            "submissionDeadline": "2024-03-25T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "Workshops",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-workshops/",
+            "submissionDeadline": "2024-03-25T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "AIQxQIA 2023: AI for Quantum and Quantum for AI",
+            "link": "https://link.springer.com/collections/diaggfidff",
+            "submissionDeadline": "2024-03-31T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "Quantum Machine Intelligence"
+        },
+        {
+            "title": "Advances in Telecommunication Networks and Wireless Technology",
+            "link": "https://www.mdpi.com/journal/information/special_issues/253KD88X7M",
+            "submissionDeadline": "2024-04-01T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "MDPI: information"
+        },
+        {
+            "title": "Technical Papers",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-papers/",
+            "submissionDeadline": "2024-04-08T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "Panels",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-panels/",
+            "submissionDeadline": "2024-04-29T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "Quantum Machine Learning and Quantum Computing for Emerging Intelligent Systems",
+            "link": "https://ietresearch.onlinelibrary.wiley.com//hub/journal/26328925/homepage/call-for-papers/si-2024-emerging-intelligent-systems",
+            "submissionDeadline": "2024-06-30T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "IET Quantum Communication"
+        },
+        {
+            "title": "Birds-of-Feather (BoF) Sessions",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-bofs/",
+            "submissionDeadline": "2024-07-15T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "Posters",
+            "link": "https://ieeecsqce.wpengine.com/2023/call-for-posters/",
+            "submissionDeadline": "2024-07-29T00:00:00.000Z",
+            "publishingType": "conference",
+            "publishingTitle": "IEEE Internatioal Conference on Quantum Computing and Engineering (QCE)"
+        },
+        {
+            "title": "Advances in Quantum Computing and Algorithms (AQCA) for Engineering Applications",
+            "link": "https://ietresearch.onlinelibrary.wiley.com//hub/journal/26328925/homepage/call-for-papers/si-2024-aqca",
+            "submissionDeadline": "2024-09-30T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "IET Quantum Communication"
+        },
+        {
+            "title": "Quantum and Quantum-inspired Machine Learning: from foundations to theoretical advances",
+            "link": "https://link.springer.com/collections/icbcaiecfj",
+            "submissionDeadline": "2024-10-31T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "Quantum Machine Intelligence"
+        },
+        {
+            "title": "Quantum Information Processing and Machine Learning",
+            "link": "https://www.mdpi.com/journal/information/special_issues/TCSPLV9N41",
+            "submissionDeadline": "2024-10-31T00:00:00.000Z",
+            "publishingType": "journal",
+            "publishingTitle": "MDPI: information"
+        }
+    ]
 }
