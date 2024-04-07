@@ -1,34 +1,6 @@
 {
     "results": [
         {
-            "title": "Workshops",
-            "link": "https://ieeecsqce.wpengine.com/2023/call-for-workshops/",
-            "submissionDeadline": "2024-03-25T00:00:00.000Z",
-            "publishingType": "conference",
-            "publishingTitle": "IEEE International Conference on Quantum Computing and Engineering (QCE)"
-        },
-        {
-            "title": "AIQxQIA 2023: AI for Quantum and Quantum for AI",
-            "link": "https://link.springer.com/collections/diaggfidff",
-            "submissionDeadline": "2024-03-31T00:00:00.000Z",
-            "publishingType": "journal",
-            "publishingTitle": "Quantum Machine Intelligence"
-        },
-        {
-            "title": "Advances in Telecommunication Networks and Wireless Technology",
-            "link": "https://www.mdpi.com/journal/information/special_issues/253KD88X7M",
-            "submissionDeadline": "2024-04-01T00:00:00.000Z",
-            "publishingType": "journal",
-            "publishingTitle": "MDPI: Information"
-        },
-        {
-            "title": "Technical Papers",
-            "link": "https://ieeecsqce.wpengine.com/2023/call-for-papers/",
-            "submissionDeadline": "2024-04-08T00:00:00.000Z",
-            "publishingType": "conference",
-            "publishingTitle": "IEEE International Conference on Quantum Computing and Engineering (QCE)"
-        },
-        {
             "title": "Quantum Machine Learning and Quantum Computing for Emerging Intelligent Systems",
             "link": "https://ietresearch.onlinelibrary.wiley.com//hub/journal/26328925/homepage/call-for-papers/si-2024-emerging-intelligent-systems",
             "submissionDeadline": "2024-06-30T00:00:00.000Z",
